@@ -1,0 +1,2 @@
+# mycode
+simple eb application
